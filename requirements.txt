@@ -1,0 +1,9 @@
+3. Open `marketing_sales_regression.ipynb` and run all cells.
+
+## Requirements
+See `requirements.txt` for full list.
+
+## Author
+- [Your Name Here]
+
+---
